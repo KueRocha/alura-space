@@ -49,4 +49,5 @@ Projeto desenvolvido durante os estudos de Django na Alura.
 Acesse http://127.0.0.1:8000/ para visualizar o projeto.
 
 <img width="1827" height="919" alt="image" src="https://github.com/user-attachments/assets/a4efb450-8004-4f28-a158-64fbe3432234" />
+<img width="1839" height="920" alt="image" src="https://github.com/user-attachments/assets/f801c68f-19e6-41d2-a3aa-7dc3469cfbc1" />
 
