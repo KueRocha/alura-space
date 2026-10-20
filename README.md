@@ -47,3 +47,6 @@ Projeto desenvolvido durante os estudos de Django na Alura.
 ## Para acessar o django admin use http://127.0.0.1:8000/admin.
 
 Acesse http://127.0.0.1:8000/ para visualizar o projeto.
+
+<img width="1827" height="919" alt="image" src="https://github.com/user-attachments/assets/a4efb450-8004-4f28-a158-64fbe3432234" />
+
